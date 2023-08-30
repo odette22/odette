@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[29.331829995000078,-1.7029830609999408]},"properties":{"OBJECTID_1":1,"OBJECTID":253,"NEW_PROVIN":"OUEST","DISTRICT_N":"RUBAVU","NEW_SECTOR":"NYUNDO","NOMFORMATI":"Nyundo","UNIT_TYPE":2,"PBFPHASE":1,"Y":-1.702983,"X":29.33183,"TYPE":"Health Centre"}}
+]}
